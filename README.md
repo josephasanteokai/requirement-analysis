@@ -1,17 +1,17 @@
 # Requirement-analysis in Software Development
-## 📌 Introduction
+## Introduction
 
 This repository contains a comprehensive walkthrough of the Requirement Analysis phase within the Software Development Life Cycle (SDLC). It is part of a hands-on project designed to simulate a real-world development scenario: building a Booking Management System.
 
 The goal is to define clear, structured, and detailed requirements — both functional and non-functional — and to visualize user interactions and system behavior. This repository serves as the foundation for planning, development, and eventual implementation of the system, ensuring alignment with business and user needs.
-## 📘 What is Requirement Analysis?
+## What is Requirement Analysis?
 
 Requirement Analysis is a crucial phase in the Software Development Life Cycle (SDLC) that involves identifying, gathering, documenting, and analyzing the needs and expectations of stakeholders for a software system. 
 
 Its primary goal is to ensure that the development team and the client have a shared understanding of what the system should do, how it should behave, and any constraints it must operate within.
 
 By thoroughly analyzing requirements early, teams can reduce misunderstandings, scope creep, and costly rework later in the project. It sets the foundation for design, implementation, testing, and deployment.
-## 🧠 Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 
 Requirement Analysis plays a vital role in ensuring the success of any software project. Here are three key reasons why it is critical in the Software Development Life Cycle (SDLC):
 
